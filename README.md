@@ -1,6 +1,47 @@
 # Personal-Projects
 My Personal Project zoo, a code playground where ideas run wild, bugs multiply, and occasionally, Ctrl+C, Ctrl+V with a sprinkle of magic dust leads to something that kinda works!
 
+# Varsity-Projects
+
+<img src="logo.png" alt="Varsity-Projects Logo" width="250" height="250">
+
+## Varsity Projects Showcase 🎓
+
+This collection showcases a variety of team-based and solo projects that I completed during my time at Varsity. It represents the culmination of my academic journey, highlighting the diverse range of tasks, assignments, and collaborative projects I undertook.
+
+## Table of Contents
+
+- [Folder Structure](#folder-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Folder Structure
+
+The repository is structured as follows:
+
+```
+├── Project A
+│   ├── README.md
+│   ├── source_code/
+│   ├── screenshots/
+│   └── ...
+├── Project B
+│   ├── README.md
+│   ├── source_code/
+│   ├── screenshots/
+│   └── ...
+├── Project C
+│   ├── README.md
+│   ├── source_code/
+│   ├── screenshots/
+│   └── ...
+├── ...
+├── README.md
+└── logo.png
+```
+
+Each project has its own folder with a dedicated `README.md` file containing detailed information about the project, including its purpose, technologies used, and any relevant instructions or documentation. The `source_code/` directory holds the project's source code, and the `screenshots/` directory stores relevant screenshots or images related to the project.
+
 
 ## Contributing
 
