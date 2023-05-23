@@ -13,7 +13,6 @@ ASCII Artify is a program written in C that converts input text into ASCII art. 
 
 
 ## Features
-
 - **ASCII Art Conversion**: The program converts input text into ASCII art.
 - **Character Support**: The program supports English alphabets (`a` to `z` and `A` to `Z`) along with specific symbols such as `-`, `_`, `:`, `.`, and `/`.
 - **Customizable Array Size**: The `ARRAY_SIZE` constant in the code can be adjusted to accommodate longer input strings.
