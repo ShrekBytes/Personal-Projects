@@ -7,15 +7,14 @@
  *              Change the ARRAY_SIZE(default 99) to generate more arts at a time.
  *
  * Author: ShrekBytes
- * Version: 1.1
- * Dependencies: None
+ * Version: 1.2
  */
 
 
 #include <stdio.h>
 #include <string.h>
 
-#define ARRAY_SIZE 99
+#define ARRAY_SIZE 99  // Increase the size to accommodate longer input strings
 
 void ClearScreen();
 void ASCII_Artify(char rawString[ARRAY_SIZE]);
@@ -37,7 +36,7 @@ int main()
 
 		ASCII_Artify(rawString);
 
-		printf("\n\nPress y or 1 to generate again: ");
+		printf("\n\t--------------------------------\n\tPress y or 1 to generate again: ");
 		scanf("%c", &yORn);
 		ClearScreen();
 	}
@@ -176,5 +175,5 @@ void ASCII_Artify(char rawString[ARRAY_SIZE])
         else if (rawString[i] == '_') printf("___ ");
     }
     printf("\n");
-
+	
 }
