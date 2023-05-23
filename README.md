@@ -1,13 +1,5 @@
 # Personal-Projects
-My Personal Project zoo, a code playground where ideas run wild, bugs multiply, and occasionally, Ctrl+C, Ctrl+V with a sprinkle of magic dust leads to something that kinda works!
-
-# Varsity-Projects
-
-<img src="logo.png" alt="Varsity-Projects Logo" width="250" height="250">
-
-## Varsity Projects Showcase 🎓
-
-This collection showcases a variety of team-based and solo projects that I completed during my time at Varsity. It represents the culmination of my academic journey, highlighting the diverse range of tasks, assignments, and collaborative projects I undertook.
+<img src="logo.png" alt="Personal Projects Logo" width="250" height="250">
 
 ## Table of Contents
 
