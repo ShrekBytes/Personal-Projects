@@ -7,8 +7,7 @@ ASCII Artify is a program written in C that converts input text into ASCII art. 
 - [Screenshots](#screenshots)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
-- 
+- [License](#license) 
 - ## Features
 
 - **ASCII Art Conversion**: The program converts input text into ASCII art.
