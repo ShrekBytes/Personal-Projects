@@ -1,28 +1,12 @@
+## Features
 
-# Features
-
-1. **ASCII Art Conversion**: The program converts input text into ASCII art, allowing you to create visually appealing representations of words and sentences.
-
-2. **Character Support**: The program supports English alphabets (`a` to `z` and `A` to `Z`) along with specific symbols such as `-`, `_`, `:`, `.`, and `/`. These characters can be used in the input text to generate corresponding ASCII art.
-
-3. **Customizable Array Size**: The `ARRAY_SIZE` constant in the code can be adjusted to accommodate longer input strings. Increasing the size allows generating more arts at a time, providing flexibility based on your requirements.
-
-4. **Interactive User Interface**: The program provides an interactive user interface where you can enter the word or sentence to convert into ASCII art. After generating the art, you have the option to generate more arts by simply pressing `y` or `1`.
-
-5. **Clear Screen Function**: Before generating new ASCII art, the program clears the console or terminal screen, providing a clean and organized display for each iteration.
-
-6. **Easy Integration**: The code can be easily integrated into your projects or used as a standalone program. You can compile and execute it on various platforms with a C compiler, such as `gcc`.
-
-7. **Readability**: The code is structured with clear function names and comments, making it easy to understand and modify for further customization.
-
-8. **Note**: The README emphasizes the limitations of the program, informing users about the specific characters and symbols supported for ASCII art generation. It also encourages users to modify the code to expand character support or add additional functionality as needed.
-
-
-
-
-
-
-
+- **ASCII Art Conversion**: The program converts input text into ASCII art.
+- **Character Support**: The program supports English alphabets (`a` to `z` and `A` to `Z`) along with specific symbols such as `-`, `_`, `:`, `.`, and `/`.
+- **Customizable Array Size**: The `ARRAY_SIZE` constant in the code can be adjusted to accommodate longer input strings.
+- **Interactive User Interface**: The program provides an interactive user interface where you can enter the word or sentence to convert into ASCII art. After generating the art, you have the option to generate more arts by simply pressing `y` or `1`.
+- **Clear Screen Function**: Before generating new ASCII art, the program clears the console or terminal screen, providing a clean and organized display for each iteration.
+- **Easy Integration**: The code can be easily integrated into your projects or used as a standalone program.
+- **Readability**: The code is structured with clear function names and comments, making it easy to understand and modify for further customization.
 
 
 ## Screenshots
