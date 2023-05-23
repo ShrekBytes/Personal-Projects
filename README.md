@@ -1,6 +1,8 @@
 # Personal-Projects
 <img src="logo.png" alt="Personal Projects Logo" width="250" height="250">
 
+## Personal-Projects Showcase 🎓
+
 Welcome to the Personal-Projects repository! This is a collection of various personal projects I have worked on. Each project represents a creative endeavor, a problem-solving journey, or an exploration of new technologies. This repository serves as a showcase of my coding skills, growth, and passion for development.
 
 ## Table of Contents
